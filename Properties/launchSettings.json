@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "fn_msProfile": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7170",
+      "launchBrowser": false
+    }
+  }
+}
