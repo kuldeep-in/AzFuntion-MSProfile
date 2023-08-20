@@ -1,2 +1,3 @@
 # AzFuntion-MSProfile
-Repository for a Azure function to read MS profile
+
+This repository is for the Azure functions code which can be used to generate Auth token from Azure AD app registration.
